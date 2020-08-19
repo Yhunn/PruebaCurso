@@ -1,0 +1,23 @@
+img
+{
+    border: 15px solid lightcoral;
+    border-radius: 100px;
+    padding: 10px;
+    display: block;
+    margin:auto;
+}
+
+div{
+    background-color: lightblue;
+    display: flex;
+    height: 150px;
+}
+
+.imagen1
+{
+    
+}
+.imagen2
+{
+    
+}
