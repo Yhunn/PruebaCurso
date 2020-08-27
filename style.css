@@ -1,23 +1,37 @@
-img
-{
-    border: 15px solid lightcoral;
-    border-radius: 100px;
-    padding: 10px;
-    display: block;
-    margin:auto;
+.header{
+    height: 70px;
+    background-color: #acd0ff;
+    margin-bottom: 10px;
 }
 
-div{
-    background-color: lightblue;
-    display: flex;
-    height: 150px;
+.hero{
+    height: 188px;
+    background-color: rgb(174, 236, 252);
+    margin-bottom: 10px;
 }
 
-.imagen1
-{
-    
+.introduction{
+    height: 170px;
+    background-color: rgb(127, 165, 247);
+    margin-bottom: 10px;
 }
-.imagen2
-{
-    
+
+.contact{
+    height: 80px;
+    background-color: rgb(183, 220, 252);
+}
+
+.footer{
+    height: 10px;
+    background-color: teal;
+}
+
+p{
+    font-family: 'Do Hyeon', sans-serif;
+    text-align: center;
+}
+
+img{
+    margin-right: 15px;
+    margin-top: 3px;
 }
